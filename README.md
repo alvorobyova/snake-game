@@ -1,4 +1,4 @@
-## Snake Game
+## Snake Game 🐍
 
 ✔️ when you press the button, a checkered field appears, the snake first has the smallest size, like 1 square of the field<br>
 ✔️ the snake is controlled using the keyboard arrows<br>
